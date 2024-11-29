@@ -1,0 +1,9 @@
+python-dotenv
+pipecat-ai[cartesia,openai,silero,websocket,deepgram,noisereduce]
+firebase-admin
+loguru
+supervisor
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
